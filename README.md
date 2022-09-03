@@ -5,8 +5,6 @@
 - 
 - 🌱 I’m currently learning Data Science with python on my own.
 - 
-- 💞️ I’m looking to collaborate on ...
-- 
-- 📫 How to reach me; Email is rufusmokaya34@gmail.com
+- 📫 How to reach me; Email is rufusmasita@gmail.com
 
 
