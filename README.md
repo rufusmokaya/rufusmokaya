@@ -5,6 +5,8 @@
 - 
 - 🌱 I’m currently learning Data Science with python on my own.
 - 
-- 📫 How to reach me; Email is rufusmasita@gmail.com
+- 📫 How to reach me : 
+              - Email : rufusmasita@gmail.com
+              - Phone Number : +254729929112
 
 
