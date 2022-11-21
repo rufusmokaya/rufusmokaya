@@ -1,7 +1,7 @@
 ###    Hello there , I’m Rufus Mokaya ! 👋
 
 
-- 👀 I’m interested in Mobile App Development, Web Application Developmen & Data Science.
+- 👀 I’m interested in Mobile App Development, Web Application Development & Data Science.
 - 
 - 🌱 I’m currently learning Data Science with python on my own.
 - 
